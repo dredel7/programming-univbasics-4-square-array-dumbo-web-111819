@@ -9,5 +9,5 @@ while counter<array.length()
   counter+=1
   
   end
-   return new_arr
+   square_array(new_arr)
 end
