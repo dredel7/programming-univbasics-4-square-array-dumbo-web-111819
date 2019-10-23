@@ -10,4 +10,5 @@ while counter<array.length()
   end
   
    return new_arr
+   
 end
